@@ -1,6 +1,4 @@
 <div align="center">
-    
-# Joshua Saikali
 
 # 💫 About Me:
 I'm a 2nd-year computer science student at Carleton University.<br>I am deeply passionate about technology and its ability to solve complex problems and make a positive impact on the world.
